@@ -112,7 +112,7 @@ function optionChanged(id) {
     fetchDemoInfo(id);
 }
 
-// Omotoa;ozse the webpage
+// initialise the webpage
 function init() {
     
 // D3 would be used to create an event handler - dropdown options
